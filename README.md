@@ -10,7 +10,7 @@ This project automates the full process of building a TTS (Text-to-Speech) datas
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 project/
