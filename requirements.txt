@@ -1,0 +1,8 @@
+groq
+python-dotenv
+elevenlabs
+librosa
+soundfile
+pydub
+numpy
+tqdm 
