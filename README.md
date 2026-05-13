@@ -115,7 +115,7 @@ Each record in `outputs/final_dataset.jsonl` looks like this:
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 | Variable | Default | Description |
 |---|---|---|
