@@ -4,12 +4,6 @@ An automated pipeline for generating a spoken Egyptian Arabic dialect dataset â€
 
 ---
 
-<audio controls>
-  <source src="data/audio/raw/sample_1.wav" type="audio/wav">
-</audio>
-
----
-
 ##  Overview
 
 Egyptian Arabic (Masri) is a low-resource dialect with very limited publicly available speech data. This pipeline addresses that by synthetically generating textâ€“audio pairs at scale using a two-model approach: a large language model to produce realistic colloquial sentences, and a multilingual TTS system to synthesize them into speech.
